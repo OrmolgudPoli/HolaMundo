@@ -22,6 +22,7 @@ public class HolaMundo {
         String str;
         str = input.nextLine();
         System.out.println(str + " mamá");
+        ghfhfu
     }
     
 }
